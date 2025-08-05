@@ -1,6 +1,32 @@
-# NextTechFusionGadgets Career Website
+# 🚀 NextTechFusionGadgets Career Website
 
-A full-stack career website built with Next.js, MongoDB, and TypeScript. This platform allows users to browse job opportunities, apply for positions, and manage their applications.
+[![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-8.0-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+
+A modern, full-stack career website built with Next.js 14, TypeScript, and MongoDB. This platform allows users to browse job opportunities, apply for positions, and manage their applications with a beautiful, responsive interface.
+
+## 🌟 Live Demo
+
+🔗 **Repository**: [https://github.com/saksham1508/ntfg-career-website](https://github.com/saksham1508/ntfg-career-website)
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+- Modern hero section with call-to-action
+- Featured job categories
+- Company values and mission
+
+### 💼 Jobs Listing
+- Search and filter functionality
+- Responsive job cards
+- Pagination support
+
+### 🔐 Authentication
+- User registration and login
+- JWT-based authentication
+- Protected routes
 
 ## Features
 
@@ -39,8 +65,8 @@ A full-stack career website built with Next.js, MongoDB, and TypeScript. This pl
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ntfg-career-site
+   git clone https://github.com/saksham1508/ntfg-career-website.git
+   cd ntfg-career-website
    ```
 
 2. **Install dependencies**
